@@ -1,0 +1,31 @@
+:root {
+  /* Warm Roast Palette */
+  --bg-primary: #FAF6F0;      /* Oat Milk Canvas */
+  --bg-sidebar: #F0E6D8;      /* Steamed Latte */
+  --bg-card: #FFFFFF;         /* Pure Foam */
+  --bg-hover: #E7D9C6;        /* Warm Crema Hover */
+  --bg-active: #DFCCB4;       /* Toasted Active Item */
+
+  /* Typography Colors */
+  --text-primary: #2C1E16;    /* Dark Espresso */
+  --text-secondary: #543E32;  /* Roasted Bean */
+  --text-muted: #7A6558;      /* Cinnamon Dust */
+
+  /* Brand Accents */
+  --accent-primary: #8B5A2B;  /* Caramel Roast */
+  --accent-hover: #6F451E;    /* French Press */
+  --accent-ring: rgba(139, 90, 43, 0.18);
+  --danger-color: #A63A2B;    /* Spiced Terracotta */
+
+  /* Borders & Radii */
+  --border-subtle: #E2D5C5;   /* Toasted Almond */
+  --radius-sm: 8px;
+  --radius-md: 12px;
+
+  /* Typography Stacks */
+  --font-serif: 'Lora', Georgia, serif;
+  --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+
+  /* Transitions */
+  --transition-fast: 150ms ease;
+}
